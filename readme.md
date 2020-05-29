@@ -30,24 +30,24 @@ Hi! I'm Dion Aditya. This is my assignment for front end developer position at N
 ## Backend
 
 
-```
-	git clone git@github.com:dionaditya/frontendtest-niagahoster
-	cd backend
-	composer install
-	mv .env.example .env
-    mongoimport --db niagahoster --collection package --drop --file /home/user/frontendtest-niagahoster/backend/data.json
-	php artisan serve
+```bash
+git clone git@github.com:dionaditya/frontendtest-niagahoster
+cd backend
+composer install
+mv .env.example .env
+mongoimport --db niagahoster --collection package --drop --file /home/user/frontendtest-niagahoster/backend/data.json
+php artisan serve
 ```
 Server listening on port 8000
 
 
 ## Frontend
 
-```
-	git clone git@github.com:dionaditya/frontendtest-niagahoster
-	cd frontend 
-	yarn or npm install
-	yarn serve
+```bash
+git clone git@github.com:dionaditya/frontendtest-niagahoster
+cd frontend 
+yarn or npm install
+yarn serve
 ``` 
 
 Now you can access the frontend apps in port 8080

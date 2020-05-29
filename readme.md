@@ -35,6 +35,7 @@ Hi! I'm Dion Aditya. This is my assignment for front end developer position at N
 	cd backend
 	composer install
 	mv .env.example .env
+    mongoimport --db niagahoster --collection package --drop --file /home/user/frontendtest-niagahoster/backend/data.json
 	php artisan serve
 ```
 Server listening on port 8000

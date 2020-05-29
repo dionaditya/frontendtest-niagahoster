@@ -12,9 +12,9 @@ Hi! I'm Dion Aditya. This is my assignment for front end developer position at N
 
 ![Preview Apps](./assets/preview/preview.gif)
 
-![Preview Apps](./assets/preview/screenshot-light.gif)
+![Preview Apps](./assets/preview/screenshot-light.png)
 
-![Preview Apps](./assets/preview/screenshot-dark.gif)
+![Preview Apps](./assets/preview/screenshot-dark.png)
 
 
 ## Installation
